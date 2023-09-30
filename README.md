@@ -1,10 +1,13 @@
-# Caio Kaway
+# Hello, World!
+
+Meu nome é Caio, e tenho me dedicado intensamente aos estudos de Analise e Desenvolvimento de Sistemas. Além disso, mantenho um constante aprendizado por meio de cursos especializados.Minha jornada de aprendizado nunca para.
 
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caiokaway/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/nostrilsck/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/caiokwy/)
+[![Discord](https://img.shields.io/badge/Discord-%23333.svg?logo=discord&logoColor=white)](http://discord.com/users/nostrilsck) 
+[![E-mail](https://img.shields.io/badge/Gmail-%23DD0031.svg?&logo=gmail&logoColor=white)](mailto:caiokaway@gmail.com)
 
 ## Habilidades
 
@@ -21,3 +24,4 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CaioKWY&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
